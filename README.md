@@ -21,7 +21,8 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
    emulator -avd Nexus_5X_API_24
 
    ################## SNIFF #####################
-Instalasi React Native App & CLI
+
+# Instalasi React Native App & CLI
 1. Untuk CLI setelah install NODE lanjutkan install watchman
    brew install watchman
 2. npm install -g create-react-native-ap
