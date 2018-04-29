@@ -19,6 +19,7 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
    cd /Users/rama/Library/Android/sdk/tools
    maka perintahnya adalah
    emulator -avd Nexus_5X_API_24
+
    ################## SNIFF #####################
 Instalasi React Native App & CLI
 1. Untuk CLI setelah install NODE lanjutkan install watchman
@@ -32,8 +33,12 @@ Instalasi React Native App & CLI
    kemudian pilih device yang dipakai bisa android atau iOS
 7. jika langsung pakai avd android bisa dijalankan emulatornya, hal ini juga berlaku jika pakai xcode
 8. jalankan perintah
+
    npm run eject
+
    kemudian jalankan sesuai emulator misal
+
    react-native run-android
+   
    tunggu sampai prosesnya selesai maka akan dijalankan pada emulator pilihan
 ## DONE 
