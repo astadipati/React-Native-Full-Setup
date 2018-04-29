@@ -1,4 +1,4 @@
-#All You need to do
+# All You need to do
 1. Install NodeJS
 2. Install JDK
 3. Install Android Emulator
@@ -6,7 +6,9 @@
 5. Tambahkan ini pada ~/.bash_profile
 
 export ANDROID_HOME=$HOME/Library/Android/sdk
+
 export PATH=$PATH:$ANDROID_HOME/tools
+
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 
 6. Ketik source $HOME/.bash_profile
